@@ -1,0 +1,33 @@
+Git >> version control
+
+    v1
+    v2
+    v3
+new v4
+
+
+>> It is distributed (on cloud)
+>> Collaboration
+>> Tracking changes
+>> Recovery
+
+https://git-scm.com/download/
+
+Github
+BitBucket
+GitLabs
+GitPod
+
+>> For 1st time need to configur Github in our system
+Git config --global user.name "nafishajmeri4"
+Git config --global user.email "nafishaehmadajmeri4@gmail.com"
+
+Git config --global color.ui auto
+
+mandatory commands:
+>> Git init
+>> Git remote add origin https://github.com/nafishajmeri4-bot/assignment.git
+
+
+
+Git pull origin main
